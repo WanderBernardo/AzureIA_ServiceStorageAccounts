@@ -43,3 +43,7 @@ Imagina uma gaveteiro onde o gaveteiro inteiro é Subscriptiom e uma gaveta dess
 08 - Neste momento, vamos subir nosso arquivo que iremos utilizar. Então, após criar o Container, selecionar clicando no nome, e depois no botão ``` Upload  ```, subir os arquivos. (Nadocumentaçaõ tem o link dos arquivos que vamos usar aqui e subir o mesmo numa pasta aqui no Github). Lembrar que os arquivos devem está descompactados.
 ![image](https://github.com/user-attachments/assets/1de94e85-0bc3-45f0-83e0-a32f9cc7a389)
 
+Resultado com os arquivos prontos para serem consumidos:
+
+![image](https://github.com/user-attachments/assets/976a5d2f-8e75-4b0e-93de-b883b8cdb2af)
+
